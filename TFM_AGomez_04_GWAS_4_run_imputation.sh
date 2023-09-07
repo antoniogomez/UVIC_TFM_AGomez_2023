@@ -32,4 +32,4 @@ dest_path=/PROJECTES/BISC_OMICS/data_qc/gwas/mother_child/gsa_qc_mothers_2023050
 ref_panel="1000G"
 ncores=24
 
-source TFM_AGomez_GWAS_3_Imputation.sh $source_file $dest_path $ref_panel $ncores
+source TFM_AGomez_03_GWAS_3_Imputation.sh $source_file $dest_path $ref_panel $ncores
